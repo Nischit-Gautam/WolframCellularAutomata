@@ -6,6 +6,7 @@ const int ruleset = 225;
 Main();
 
 //reference for rules https://plato.stanford.edu/entries/cellular-automata/supplement.html
+//https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
 static void Main()
 {    
     var inputArray = Convert.ToString(input, 2);    
